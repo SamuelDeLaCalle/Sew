@@ -2,16 +2,6 @@
 
 /* Estilos generales del proyecto MotoGP-Desktop*/
 
-body   {
-    background-color: #7F4AA4;
-    color: #FBEE0F;
-    font-family: Verdana, Geneva, sans-serif
-}
-
-header {
-    background-color: #7F4AA4;
-}
-
 h1 {
     color: #FBEE0F;
 }
@@ -19,5 +9,16 @@ h1 {
 nav {
     color: #FBEE0F;
 }
+
+body   {
+    background-color: #7F4AA4;
+    color: #FBEE0F;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+header {
+    background-color: black;
+}
+
 
 /* Color de fondo: #7F4AA4 Color de frente: #FBEE0F */

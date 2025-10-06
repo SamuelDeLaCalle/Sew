@@ -5,11 +5,11 @@
 body   {
     background-color: #7F4AA4;
     color: #FBEE0F;
-    font-family: Verdana, Geneva, sans-serif;
+    font-family: "Trebuchet MS", Verdana, sans-serif;
 }
 
 header {
-    background-color: black;
+    background-color: whitesmoke;
 }
 
 h1 {

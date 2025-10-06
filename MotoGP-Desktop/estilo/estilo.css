@@ -2,14 +2,6 @@
 
 /* Estilos generales del proyecto MotoGP-Desktop*/
 
-h1 {
-    color: #FBEE0F;
-}
-
-nav {
-    color: #FBEE0F;
-}
-
 body   {
     background-color: #7F4AA4;
     color: #FBEE0F;
@@ -18,6 +10,14 @@ body   {
 
 header {
     background-color: black;
+}
+
+h1 {
+    color: #FBEE0F;
+}
+
+nav {
+    color: #FBEE0F;
 }
 
 

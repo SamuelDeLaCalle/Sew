@@ -1,3 +1,7 @@
 /* Samuel de la Calle Fernández, UO295358*/
 
 /* Estilos generales del proyecto MotoGP-Desktop*/
+
+body   {
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+}

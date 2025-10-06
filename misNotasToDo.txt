@@ -1,0 +1,5 @@
+-Barra nav no debe ser una lista.
+-Quitar paths relativos a index, todos los paths han de ser relativos.
+-Chequear contraste de colores.
+-Ajustar bien el tamaño del video.
+-Grabar y añadir audio.

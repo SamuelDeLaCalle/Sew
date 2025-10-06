@@ -2,14 +2,14 @@
 
 /* Estilos generales del proyecto MotoGP-Desktop*/
 
+header {
+    background-color: whitesmoke;
+}
+
 body   {
     background-color: #7F4AA4;
     color: #FBEE0F;
     font-family: "Trebuchet MS", Verdana, sans-serif;
-}
-
-header {
-    background-color: whitesmoke;
 }
 
 h1 {

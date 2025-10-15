@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE circuito SYSTEM "circuito.dtd">
+<circuito>
+  <datos_principales>
+    <nombre>Autodromo Internazionale del Mugello</nombre>
+    <longitud unidad="metros">5245</longitud>
+    <anchura_media unidad="metros">14</anchura_media>
+  </datos_principales>
+  <carrera>
+    <fecha>2025-06-22</fecha>
+    <hora_inicio>14:00 CEST</hora_inicio>
+    <numero_vueltas>23</numero_vueltas>
+    <patrocinador_principal>Brembo</patrocinador_principal>
+  </carrera>
+  <localizacion>
+    <localidad>Scarperia e San Piero</localidad>
+    <pais>Italia</pais>
+    <coordenadas_origen>
+      <longitud>11.3716</longitud>
+      <latitud>43.9975</latitud>
+      <altitud unidad="metros">292</altitud>
+    </coordenadas_origen>
+  </localizacion>
+  <tramos>
+    <tramo>
+      <distancia unidad="metros">1200</distancia>
+      <coordenadas_finales>
+        <longitud>11.3680</longitud>
+        <latitud>43.9982</latitud>
+        <altitud unidad="metros">295</altitud>
+      </coordenadas_finales>
+      <sector>1</sector>
+    </tramo>
+    <tramo>
+      <distancia unidad="metros">1800</distancia>
+      <coordenadas_finales>
+        <longitud>11.3655</longitud>
+        <latitud>43.9960</latitud>
+        <altitud unidad="metros">290</altitud>
+      </coordenadas_finales>
+      <sector>2</sector>
+    </tramo>
+    <tramo>
+      <distancia unidad="metros">2245</distancia>
+      <coordenadas_finales>
+        <longitud>11.3702</longitud>
+        <latitud>43.9945</latitud>
+        <altitud unidad="metros">288</altitud>
+      </coordenadas_finales>
+      <sector>3</sector>
+    </tramo>
+  </tramos>
+  <resultados>
+    <vencedor>
+      <nombre>Marc Márquez</nombre>
+      <tiempo>00:41:32</tiempo>
+    </vencedor>
+    <clasificacion_mundial>
+      <piloto posicion="1">
+        <nombre>Marc Márquez</nombre>
+        <puntos>213</puntos>
+      </piloto>
+      <piloto posicion="2">
+        <nombre>Álex Márquez</nombre>
+        <puntos>181</puntos>
+      </piloto>
+      <piloto posicion="3">
+        <nombre>Francesco Bagnaia</nombre>
+        <puntos>120</puntos>
+      </piloto>
+    </clasificacion_mundial>
+  </resultados>
+  <referencias>
+    <referencia>https://www.motociclismo.es/mundial-motogp/estadisticas-pilotos-marcas-equipos-motogp-2025-gp-italia-mugello_311917_102.html</referencia>
+    <referencia>https://www.sport.es/es/noticias/motor/moto-gp/gran-premio-italia-2025-motogp-118668181</referencia>
+    <referencia>https://www.motogp.com/es/news/2025/06/16/italiangp-preview/751997</referencia>
+  </referencias>
+  <galeria_fotografias>
+    <fotografia>1.jpg</fotografia>
+    <fotografia>2.jpg</fotografia>
+    <fotografia>3.jpg</fotografia>
+  </galeria_fotografias>
+  <galeria_videos>
+    <video>MugelloOnboardLap.mp4</video>
+    <video>GPItalia2025Highlights.mp4</video>
+  </galeria_videos>
+</circuito>

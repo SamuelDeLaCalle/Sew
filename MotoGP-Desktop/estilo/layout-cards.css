@@ -1,0 +1,32 @@
+/* Samuel de la Calle Fernández, UO295358*/
+
+/* Estilos generales del proyecto MotoGP-Desktop*/
+
+header {
+    background-color: whitesmoke;
+}
+
+body   {
+    background-color: #7F4AA4;
+    color: #FBEE0F;
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+.migas {
+    font-size: 14px;
+}
+
+h1 {
+    color: #FBEE0F;
+}
+
+nav {
+    color: #FBEE0F;
+}
+
+
+/* Color de fondo: #7F4AA4 Color de frente: #FBEE0F */
